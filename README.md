@@ -9,7 +9,7 @@ This is the library for you! It is **75% smaller** than the original tachyons, w
 ## Install
 
 ```sh
-yarn add tachyons-lite
+yarn add @accurat/tachyons-lite
 ```
 
 ## Usage
@@ -23,5 +23,5 @@ import 'tachyons-lite'
 Otherwise you can use it from the CDN, put this in your html
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/tachyons-lite/tachyons-lite.min.css">
+<link rel="stylesheet" href="https://unpkg.com/@accurat/tachyons-lite/tachyons-lite.min.css">
 ```
