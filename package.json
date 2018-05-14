@@ -1,6 +1,6 @@
 {
   "name": "@accurat/tachyons-lite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Like Tachyons but without media-queries, colors and normalize.css",
   "repository": "accurat/tachyons-lite",
   "license": "MIT",
