@@ -4,7 +4,7 @@
 
 Sometimes you don't need tachyons' media queries, you have your own color palette and you want to use [modern-normalize](https://github.com/sindresorhus/modern-normalize) instead of normalize.css.
 
-This is the library for you! It is **75% smaller** than the original tachyons, weighing only **18KB** (minified) against the **79KB** of the minified tachyons bundle.
+This is the library for you! It is **75% smaller** than the original tachyons, weighing only **18KB** (minified) against the **79KB** of the (minified) original tachyons bundle.
 
 ## Install
 
@@ -17,7 +17,7 @@ yarn add @accurat/tachyons-lite
 If you're using **webpack**, you can just do
 
 ```js
-import 'tachyons-lite'
+import '@accurat/tachyons-lite'
 ```
 
 Otherwise you can use it from the CDN, put this in your html

@@ -7,7 +7,7 @@ const config = {
     black: '#000',
     white: '#fff',
   },
-  skipModules: ['normalize'],
+  skipModules: ['normalize', 'boxSizing'],
 }
 
 const generate = async () => {
