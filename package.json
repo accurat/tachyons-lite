@@ -1,0 +1,33 @@
+{
+  "name": "tachyons-lite",
+  "version": "1.0.0",
+  "description": "Like Tachyons but without media-queries, colors and normalize.css",
+  "repository": "accurat/tachyons-lite",
+  "license": "MIT",
+  "author": "Marco Fugaro <marco.fugaro@gmail.com> (https://github.com/marcofugaro)",
+  "contributors": [
+    "Marco Fugaro <marco.fugaro@gmail.com> (https://github.com/marcofugaro)",
+    "Luca Falasco <falasco.luca@gmail.com> (https://github.com/lucafalasco)",
+    "Cesare Soldini <cesare.soldini@gmail.com> (https://github.com/caesarsol)",
+    "Marco Vettorello <marco.vettorello@accurat.it> (https://github.com/markov00)",
+    "nkint <alberto.massa@accurat.it> (https://github.com/nkint)",
+    "YeasterEgg <l.d.mattiazzi@gmail.com> (https://github.com/YeasterEgg)"
+  ],
+  "keywords": [
+    "tachyons",
+    "css",
+    "functional css",
+    "lite",
+    "light",
+    "normalize",
+    "media-query"
+  ],
+  "scripts": {
+    "build": "node index.js"
+  },
+  "style": "tachyons-lite.css",
+  "main": "tachyons-lite.css",
+  "devDependencies": {
+    "tachyons-generator": "^0.22.1"
+  }
+}
