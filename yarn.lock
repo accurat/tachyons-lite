@@ -1746,9 +1746,9 @@ tachyons-build-css@^1.5.1:
     postcss-import "^11.1.0"
     postcss-rtl "^1.2.3"
 
-tachyons-generator@^0.22.1:
+tachyons-generator@marcofugaro/generator#next:
   version "0.22.1"
-  resolved "https://registry.yarnpkg.com/tachyons-generator/-/tachyons-generator-0.22.1.tgz#fc3f4f4c703f450ac9d64b8690442fb62f322525"
+  resolved "https://codeload.github.com/marcofugaro/generator/tar.gz/405e46f34aea72be44561203ad08ed9b9f30d180"
   dependencies:
     camelcase "^4.1.0"
     colorable "^1.0.5"
